@@ -1,7 +1,7 @@
 import sys
 import json
 
-@author: vipul sharma
+@author vipul sharma
 
 def func(self,attr,*args, **kwargs):
 
