@@ -1,2 +1,2 @@
 # Zabbix
-Zabbix - All Scripts and Python Package
+Zabbix - Python API Module
