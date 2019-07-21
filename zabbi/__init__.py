@@ -1,5 +1,5 @@
 name = "zabbi"
-@author: vipul sharma
+@author vipul sharma
 
 import logging
 import requests
