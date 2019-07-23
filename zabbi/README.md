@@ -15,7 +15,7 @@ $ pip install zabbi
 ```python
 from zabbi import ZabbixAPI
 
-zapi = ZabbixAPI("http://zabbixserver.example.com")
+zapi = ZabbixAPI("http://zabbixserver.example.com/zabbix")
 zapi.login("zabbix user", "zabbix pass")
 print("Zabbix API Version %s using zabbi " % zapi.api_version())
 ```
