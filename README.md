@@ -25,6 +25,6 @@ print("Connected to Zabbix API Version %s" % zapi.api_version())
 #### The features added in zabbi are :
 ```doc
 * The Host and HostInterface API's are integrated together in this.
-* You can get details for a host using **host.get** with parameters.
-* Which would not only return results for **host parameters but also for HostInterface Results.
+* You can get details for a host using host.get with parameters.
+* Which would not only return results for host parameters but also for HostInterface Results.
 ```
