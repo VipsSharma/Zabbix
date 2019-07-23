@@ -24,4 +24,4 @@ print("Connected to Zabbix API Version %s" % zapi.api_version())
 
 ## The features added in zabbi are :
 
-* Using host.get you can get all results for a host ( including 'hostInterface'  results ).
+* Using host.get you can get all results for a host ( including hostInterface results ).
